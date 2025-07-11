@@ -75,4 +75,4 @@ MONGODB_URI=mongodb://localhost:27017/url-shortener
 ```
 
 
-# # Website Live at : https://url-shortner-smx5.vercel.app/
+# Website Live at : https://url-shortner-smx5.vercel.app/](https://url-shortner-smx5.vercel.app/
