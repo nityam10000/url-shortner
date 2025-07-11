@@ -72,4 +72,7 @@ Create a `.env` file in the backend directory with:
 JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/url-shortener
-``` 
+```
+
+
+# # Website Live at : https://url-shortner-smx5.vercel.app/
